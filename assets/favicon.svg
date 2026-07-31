@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">冯子贤个人主页图标</title>
+  <defs>
+    <linearGradient id="g" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8b7cff"/>
+      <stop offset=".52" stop-color="#4da8ff"/>
+      <stop offset="1" stop-color="#55e7d1"/>
+    </linearGradient>
+  </defs>
+  <path d="M12 6h33l10 12v33L45 58H12L5 49V15z" fill="#090d15" stroke="url(#g)" stroke-width="3"/>
+  <path d="M21 18h24v7H29v8h14v7H29v13h-8z" fill="url(#g)"/>
+</svg>
